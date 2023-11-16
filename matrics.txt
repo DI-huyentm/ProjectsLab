@@ -1,0 +1,5 @@
+Accuracy: 99.90% with test rate = 0.2
+Accuracy: 99.89% with test rate = 0.3
+Accuracy: 99.85% with test rate = 0.05
+Accuracy: 99.90% with test rate = 0.5
+Accuracy: 99.89% with test rate = 0.7
